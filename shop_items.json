@@ -1,0 +1,58 @@
+[
+    {
+        "item_id": 1,
+        "name": "Pepe Plush",
+        "price": 25000,
+        "rarity": "common",
+        "emoji": "<:partyhatsmile:1242693801936687165>"
+    },
+    {
+        "item_id": 2,
+        "name": "Doge Pillow",
+        "price": 25000,
+        "rarity": "common",
+        "emoji": "<:dogesmile:1242693799910576179>"
+    },
+    {
+        "item_id": 3,
+        "name": "Rickroll Soundboard",
+        "price": 25000,
+        "rarity": "common",
+        "emoji": "<a:1053getrickrolled:1242693798216077362>"
+    },
+    {
+        "item_id": 8,
+        "name": "Dabbing Pikachu Figure",
+        "price": 75000,
+        "rarity": "uncommon",
+        "emoji": "<:chill:1242693795762536521>"
+    },
+    {
+        "item_id": 15,
+        "name": "Baby Yoda Plush",
+        "price": 150000,
+        "rarity": "rare",
+        "emoji": "<:yoda:1242693794114310144>"
+    },
+    {
+        "item_id": 22,
+        "name": "Doge Coin Bank",
+        "price": 500000,
+        "rarity": "epic",
+        "emoji": "<:dcoin:1242693791815700562>"
+    },
+    {
+        "item_id": 27,
+        "name": "Rare Pepe Poster",
+        "price": 2500000,
+        "rarity": "legendary",
+        "emoji": "<:shut:1242693790179921940>"
+    },
+    {
+        "item_id": 28,
+        "name": "skibidi toilet",
+        "price": 150000000,
+        "rarity": "toilet",
+        "emoji": "<a:skibidi:1242743508847038555>"
+    }
+]

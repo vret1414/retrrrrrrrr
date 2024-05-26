@@ -1,0 +1,38 @@
+[
+    {"item_id": 1, "name": "pepe plush", "price": 25000, "rarity": "common"},
+    {"item_id": 2, "name": "doge pillow", "price": 25000, "rarity": "common"},
+    {"item_id": 3, "name": "rickroll soundboard", "price": 25000, "rarity": "common"},
+    {"item_id": 4, "name": "trollface mug", "price": 25000, "rarity": "common"},
+    {"item_id": 5, "name": "keyboard cat keycap", "price": 25000, "rarity": "common"},
+    {"item_id": 6, "name": "nyan cat sticker set", "price": 25000, "rarity": "common"},
+    {"item_id": 7, "name": "grumpy cat plush", "price": 25000, "rarity": "common"},
+    
+    {"item_id": 8, "name": "dabbing pikachu figure", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 9, "name": "spongebob meme poster", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 10, "name": "kermit sipping tea mug", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 11, "name": "arthur fist plush", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 12, "name": "screaming goat toy", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 13, "name": "drake hotline bling poster", "price": 75000, "rarity": "uncommon"},
+    {"item_id": 14, "name": "salt bae apron", "price": 75000, "rarity": "uncommon"},
+    
+    {"item_id": 15, "name": "baby yoda plush", "price": 150000, "rarity": "rare"},
+    {"item_id": 16, "name": "distracted boyfriend canvas", "price": 150000, "rarity": "rare"},
+    {"item_id": 17, "name": "crying cat phone case", "price": 150000, "rarity": "rare"},
+    {"item_id": 18, "name": "is this a pigeon? notebook", "price": 150000, "rarity": "rare"},
+    {"item_id": 19, "name": "hide the pain harold poster", "price": 150000, "rarity": "rare"},
+    {"item_id": 20, "name": "confused nick young plush", "price": 150000, "rarity": "rare"},
+    {"item_id": 21, "name": "surprised pikachu pillow", "price": 150000, "rarity": "rare"},
+    
+    {"item_id": 22, "name": "doge coin bank", "price": 500000, "rarity": "epic"},
+    {"item_id": 23, "name": "pepega mousepad", "price": 500000, "rarity": "epic"},
+    {"item_id": 24, "name": "sad keanu action figure", "price": 500000, "rarity": "epic"},
+    {"item_id": 25, "name": "crying jordan t-shirt", "price": 500000, "rarity": "epic"},
+    {"item_id": 26, "name": "salt bae salt shaker", "price": 500000, "rarity": "epic"},
+    
+    {"item_id": 27, "name": "rare pepe poster", "price": 2500000, "rarity": "legendary"},
+    {"item_id": 28, "name": "chocolate rain umbrella", "price": 2500000, "rarity": "legendary"},
+    
+    {"item_id": 29, "name": "demise of harambe statue", "price": 5000000, "rarity": "demise"},
+
+    {"item_id": 30, "name": "the cool of cool", "price": 25000000, "rarity": "retro"}
+]
